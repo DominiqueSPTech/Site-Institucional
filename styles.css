@@ -63,6 +63,11 @@
     align-items: center;
     text-align: center;
     justify-content: space-around;
+    background-color: #32b9cd;
+    border-style: solid;
+    border-width: 4px;
+    border-color:#222;
+    border-radius: 55px;
 }
 
 .social .container .card img {
